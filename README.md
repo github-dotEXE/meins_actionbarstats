@@ -6,7 +6,7 @@ dependencies:
 
 commands and permissions:
   exampleCMD:
-    /CMD <args here> : permission
+    /CMD [args here] : permission
       description for cmd here
   xpbar:
     /xpbar
