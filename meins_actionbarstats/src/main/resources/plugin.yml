@@ -1,0 +1,12 @@
+name: meins_actionbarstats
+version: 1.1.1
+main: de.ender.actionbarstats.Main
+api-version: 1.19
+load: STARTUP
+depend: [ meins_core ]
+authors: [ ender__exe ]
+description: ActionBar stats
+
+commands:
+  xpbar:
+    description: toggles xp actionbar on or off
